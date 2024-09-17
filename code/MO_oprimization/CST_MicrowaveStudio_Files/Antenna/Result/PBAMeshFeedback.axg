@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry version="20170928">
+  <Objects>
+    <Object name="Lines" id="1">
+      <LineSet points="11.9509411 0 0.762000024 11.9509411 5.05295372 0.762000024 10.2509413 0 0.762000024 10.2509413 5.05295372 0.762000024 22.2018814 0 0 22.2018814 4.05295372 0 0 0 0 0 4.05295372 0 10.2509413 5.05295372 0.762000024 11.9509411 5.05295372 0.762000024 0 4.05295372 0 22.2018814 4.05295372 0 0 0 0 22.2018814 0 0" stripped="0" material="$CornerCorrectionMaterial$"/>
+    </Object>
+  </Objects>
+  <Materials/>
+  <Groups/>
+</CSTAuxiliaryGeometry>

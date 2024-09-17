@@ -1,0 +1,104 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "Lt",
+         "type": "float",
+         "value": 9.299153017097746
+      },
+      {
+         "name": "dW",
+         "type": "float",
+         "value": 0.5263809656339312
+      },
+      {
+         "name": "dL",
+         "type": "float",
+         "value": 0.3776091528520772
+      },
+      {
+         "name": "x",
+         "type": "float",
+         "value": 11.835069901462965
+      },
+      {
+         "name": "W",
+         "type": "float",
+         "value": 24.722901734193794
+      },
+      {
+         "name": "L",
+         "type": "float",
+         "value": 33.34690197287575
+      },
+      {
+         "name": "h_sub",
+         "type": "float",
+         "value": 1.6
+      },
+      {
+         "name": "wcop",
+         "type": "float",
+         "value": 13.049055894217952
+      },
+      {
+         "name": "nwcop",
+         "type": "float",
+         "value": 11.673845839975842
+      },
+      {
+         "name": "G",
+         "type": "float",
+         "value": 8.805552660183286
+      },
+      {
+         "name": "W2",
+         "type": "float",
+         "value": 12.361450867096897
+      },
+      {
+         "name": "scyl",
+         "type": "float",
+         "value": 20.93422291856071
+      },
+      {
+         "name": "siner",
+         "type": "float",
+         "value": 15.615090378577356
+      },
+      {
+         "name": "sr",
+         "type": "float",
+         "value": 17.578797060232553
+      },
+      {
+         "name": "Rr",
+         "type": "float",
+         "value": 5.319132539983355
+      },
+      {
+         "name": "R",
+         "type": "float",
+         "value": 3.7554258583281572
+      },
+      {
+         "name": "pport",
+         "type": "float",
+         "value": 24.025055894217953
+      },
+      {
+         "name": "nport",
+         "type": "float",
+         "value": 0.6978458399758409
+      },
+      {
+         "name": "hport",
+         "type": "float",
+         "value": 12.576
+      }
+   ],
+   "outputVariables": []
+}

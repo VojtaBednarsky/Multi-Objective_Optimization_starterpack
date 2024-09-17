@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2023.5 - Jun 08 2023 - ACIS 32.0.1 -
+[Author]
+xbedna70
+[Mesh Cells]
+96,048
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Unavailable
+[Modeler Unique ID]
+5:antenna.cst?68fb65c3f6204506125a5c23e10e2542?3836:numberofparameters=17:port=1>mode=1>zre=0>zim=0:::hport?nport?pport?r?rr?sr?siner?scyl?w2?g?nwcop?wcop?h_sub?l?w?x?lt
+[Comment]
